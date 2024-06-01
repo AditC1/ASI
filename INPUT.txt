@@ -1,0 +1,3 @@
+Phenelzine C1=CC=C(C=C1)CCNN
+Pseudoephedrine CC(C(C1=CC=CC=C1)O)NC
+
